@@ -1,0 +1,39 @@
+Task- 8
+
+Working and Understanding VPN
+Tools: ProtonVPN (Free)
+
+1. I have chosen a free VPN service ProtonVPN and I have signed up to that VPN
+
+2. I have then downloaded and installed that VPN client in my system
+
+3. I have connected to the VPN server and it connected me to one of its free providers in Netherlands
+
+4. Then to verify, I used whereismyipaddress.com and verified that my ip address have changed from the original one and in maps also it showed as Netherlands
+
+5. Then I browsed a website to confirm that the traffic is encrypted, i searched for youtube and found that the url contained https in which 's' stands for secured. So that i came to know that my connection is encrypted
+
+6. Then I disconnected VPN and again checked my ip website and it came back to my original ip in India and also while browsing speed is increased when compared to searching with VPN
+
+7. VPN encryption and Privacy Features for ProtonVPN:
+
+Encryption: Uses AES-256 (military-grade encryption).
+Protocols: OpenVPN and WireGuard (secure and fast).
+No-logs policy: ProtonVPN does not log your activity.
+DNS leak protection and Kill Switch options for extra safety.
+
+8. VPN benefits and limitations are:
+
+Benefits:
+
+Privacy Protection: VPN hides your IP and encrypts traffic, making it difficult for ISPs or hackers to track your activity.
+Secure on Public Wi-Fi: Especially useful on public networks (cafes, airports).
+Bypass Geo-Restrictions: Access websites or content not available in your country.
+Anonymity: Helps protect identity while browsing or accessing sensitive content.
+
+Limitations:
+
+Reduced Speed: VPNs can slow down internet speed due to encryption and server distance.
+Limited Free Features: Free VPNs may limit server options, speed, or data.
+Not Foolproof: A VPN doesn’t protect from phishing or malware by itself.
+Blocked by Some Services: Some sites may block VPN IPs (like Netflix or banking sites).
